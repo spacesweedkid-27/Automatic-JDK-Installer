@@ -1,2 +1,2 @@
-# Automatic-JDK-Installer
-Shell Script to install an openjdk and link their commands to the PATH
+## TODO
+Adding user-input for support for after jdk18 will be outdated
