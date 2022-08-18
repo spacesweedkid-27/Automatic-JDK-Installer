@@ -1,2 +1,4 @@
-## TODO
-Adding user-input for support for after jdk18 will be outdated
+#Automatic-JDK-Installer
+_since installing jdks on linux is too complicated for me_
+
+script will install a user specified jdk to the system
